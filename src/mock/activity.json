@@ -1,0 +1,20 @@
+[
+  {
+    "id": "event1",
+    "type": "PushEvent",
+    "repo": { "name": "johnDoe/awesome-project" },
+    "created_at": "2026-01-31T14:00:00Z"
+  },
+  {
+    "id": "event2",
+    "type": "PullRequestEvent",
+    "repo": { "name": "johnDoe/react-dashboard" },
+    "created_at": "2026-01-30T10:30:00Z"
+  },
+  {
+    "id": "event3",
+    "type": "IssuesEvent",
+    "repo": { "name": "johnDoe/data-visualizer" },
+    "created_at": "2026-01-28T09:15:00Z"
+  }
+]
